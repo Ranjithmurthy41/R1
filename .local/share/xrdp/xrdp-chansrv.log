@@ -1,4 +1,1 @@
-[20210424-16:58:27] [CORE ] main: app started pid 9335(0x00002477)
-[20210424-17:09:02] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
-[20210424-17:09:17] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
-[20210424-17:47:25] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20210425-12:39:25] [CORE ] main: app started pid 3646(0x00000e3e)

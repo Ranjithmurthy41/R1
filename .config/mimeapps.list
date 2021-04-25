@@ -1,0 +1,5 @@
+[Added Associations]
+application/vnd.ms-publisher=userapp-Mail Recipient-SACG20.desktop;xfce4-clipman.desktop;xfce4-about.desktop;
+
+[Default Applications]
+application/vnd.ms-publisher=xfce4-about.desktop
